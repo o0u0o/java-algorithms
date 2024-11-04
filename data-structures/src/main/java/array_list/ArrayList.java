@@ -45,10 +45,12 @@ public class ArrayList<E> implements List<E> {
         // 判断扩容操作
         if (minCapacity - elementData.length > 0) {
             int oldCapacity = elementData.length;
+            //新的数组长度等于老的数组长度*1.5即1+0.5,PS:直接在二进制位上操作，速度快，无精度损失
             int newCapacity = oldCapacity + (oldCapacity >> 1);
             if (newCapacity - minCapacity < 0) {
                 newCapacity = minCapacity;
             }
+            //扩展数组
             elementData = Arrays.copyOf(elementData, newCapacity);
         }
         // 添加元素

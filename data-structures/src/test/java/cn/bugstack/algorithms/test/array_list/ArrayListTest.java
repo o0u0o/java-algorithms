@@ -1,4 +1,4 @@
-package array_list.__test__;
+package cn.bugstack.algorithms.test.array_list;
 
 import array_list.ArrayList;
 import array_list.List;

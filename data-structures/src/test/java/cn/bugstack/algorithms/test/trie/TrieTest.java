@@ -1,4 +1,4 @@
-package trie.__test__;
+package cn.bugstack.algorithms.test.trie;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package heap.__test__;
+package cn.bugstack.algorithms.test.heap;
 
 import heap.MaxHeap;
 import heap.MinHeap;

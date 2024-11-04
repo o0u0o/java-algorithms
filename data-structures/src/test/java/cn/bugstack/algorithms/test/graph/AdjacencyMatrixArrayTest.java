@@ -1,4 +1,4 @@
-package graph.__test__;
+package cn.bugstack.algorithms.test.graph;
 
 import graph.AdjacencyMatrixArray;
 import org.junit.jupiter.api.Test;

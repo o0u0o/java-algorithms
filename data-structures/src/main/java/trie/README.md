@@ -170,7 +170,7 @@ public void test_trie() {
 **测试结果**
 
 ```java
-06:21:38.226 [main] INFO trie.__test__.TrieTest - 测试结果：["bat -> 大厂","batch -> 批量","battle -> 战斗"]
+06:21:38.226 [main] INFO cn.bugstack.algorithms.test.trie.TrieTest - 测试结果：["bat -> 大厂","batch -> 批量","battle -> 战斗"]
 
 Process finished with exit code 0
 ```

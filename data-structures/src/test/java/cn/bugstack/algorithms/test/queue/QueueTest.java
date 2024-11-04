@@ -1,4 +1,4 @@
-package queue.__test__;
+package cn.bugstack.algorithms.test.queue;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

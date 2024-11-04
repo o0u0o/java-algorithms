@@ -1,4 +1,4 @@
-package hash_table.__test__;
+package cn.bugstack.algorithms.test.hash_table;
 
 import hash_table.*;
 import org.junit.jupiter.api.Test;

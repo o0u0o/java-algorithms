@@ -1,4 +1,4 @@
-package tree.__test__;
+package cn.bugstack.algorithms.test.tree;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

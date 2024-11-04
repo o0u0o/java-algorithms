@@ -1,8 +1,8 @@
-package linked_list.__test__;
+package cn.bugstack.algorithms.test.link_list;
 
 import linked_list.LinkedList;
 import linked_list.List;
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

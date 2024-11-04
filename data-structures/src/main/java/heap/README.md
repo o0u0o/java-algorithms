@@ -238,50 +238,50 @@ public void test_min_heap() {
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：3 下节点：4 位置替换
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：10 right：9
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：4 Val：8
-17:21:30.057 [main] INFO heap.__test__.HeapTest - 测试结果：1
+17:21:30.057 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：1
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：3 下节点：4 位置替换
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：11 right：8
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：4 下节点：8 位置替换
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：4 Val：9
-17:21:30.057 [main] INFO heap.__test__.HeapTest - 测试结果：3
+17:21:30.057 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：3
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：8 right：5
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：4 下节点：5 位置替换
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：5 下节点：6 位置替换
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：5 Val：10
-17:21:30.057 [main] INFO heap.__test__.HeapTest - 测试结果：4
+17:21:30.057 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：4
 17:21:30.057 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：8 right：6
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：5 下节点：6 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：10 right：7
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：6 下节点：7 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：6 Val：15
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：5
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：5
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：8 right：7
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：6 下节点：7 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：7 下节点：10 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：5 Val：12
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：6
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：6
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：7 下节点：8 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：11 right：9
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：8 下节点：9 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：4 Val：15
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：7
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：7
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：8 下节点：9 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：9 下节点：11 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：3 Val：12
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：8
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：8
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：11 right：10
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：9 下节点：10 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：2 Val：15
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：9
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：9
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：10 下节点：11 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：1 Val：12
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：10
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：10
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：11 下节点：12 位置替换
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：1 Val：15
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：11
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：11
 17:21:30.058 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：0 Val：15
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：12
-17:21:30.058 [main] INFO heap.__test__.HeapTest - 测试结果：15
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：12
+17:21:30.058 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：15
 
 Process finished with exit code 0
 ```
@@ -424,46 +424,46 @@ public void test_max_heap() {
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：1 right：5
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：11 下节点：5 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：8 Val：3
-17:23:45.083 [main] INFO heap.__test__.HeapTest - 测试结果：15
+17:23:45.083 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：15
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：12 下节点：11 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：5 right：10
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：11 下节点：10 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：4 Val：9
-17:23:45.083 [main] INFO heap.__test__.HeapTest - 测试结果：12
+17:23:45.083 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：12
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：11 下节点：10 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：5 right：9
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：10 下节点：9 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：4 Val：4
-17:23:45.083 [main] INFO heap.__test__.HeapTest - 测试结果：11
+17:23:45.083 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：11
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：10 下节点：9 位置替换
 17:23:45.083 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：9 下节点：5 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：3 Val：3
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：10
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：10
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：5 right：8
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：9 下节点：8 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：8 下节点：7 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：5 Val：1
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：9
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：9
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：5 right：7
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：8 下节点：7 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：2 Val：6
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：8
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：8
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】左右子节点比对，获取最小值。left：5 right：6
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：7 下节点：6 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：2 Val：1
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：7
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：7
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：6 下节点：5 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：1 Val：4
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：6
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：6
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：5 下节点：4 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：1 Val：3
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：5
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：5
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换过程，节点的值比对。上节点：4 下节点：3 位置替换
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：1 Val：1
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：4
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：4
 17:23:45.084 [main] INFO queue.PriorityQueue - 【出队】替换结果，最终更换位置。Idx：0 Val：1
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：3
-17:23:45.084 [main] INFO heap.__test__.HeapTest - 测试结果：1
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：3
+17:23:45.084 [main] INFO cn.bugstack.algorithms.test.heap.HeapTest - 测试结果：1
 
 Process finished with exit code 0
 ```

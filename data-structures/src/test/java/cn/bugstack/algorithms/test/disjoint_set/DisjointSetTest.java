@@ -1,4 +1,4 @@
-package disjoint_set.__test__;
+package cn.bugstack.algorithms.test.disjoint_set;
 
 import disjoint_set.*;
 import org.junit.jupiter.api.Test;

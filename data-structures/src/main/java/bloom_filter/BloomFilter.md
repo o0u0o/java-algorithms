@@ -156,10 +156,10 @@ public void test() {
 **测试结果**
 
 ```java
-21:33:22.790 [main] INFO bloom_filter.__test__.BloomFilterTest - 测试结果 val00：小傅哥 布隆过滤器：true
-21:33:22.794 [main] INFO bloom_filter.__test__.BloomFilterTest - 测试结果 val01：https://bugstack.cn 布隆过滤器：true
-21:33:22.794 [main] INFO bloom_filter.__test__.BloomFilterTest - 测试结果 val02：https://github.com/fuzhengwei/CodeGuide 布隆过滤器：true
-21:33:22.795 [main] INFO bloom_filter.__test__.BloomFilterTest - 测试结果 val02：https://github.com/fuzhengwei 布隆过滤器：false
+21:33:22.790 [main] INFO cn.bugstack.algorithms.test.bloom_filter.BloomFilterTest - 测试结果 val00：小傅哥 布隆过滤器：true
+21:33:22.794 [main] INFO cn.bugstack.algorithms.test.bloom_filter.BloomFilterTest - 测试结果 val01：https://bugstack.cn 布隆过滤器：true
+21:33:22.794 [main] INFO cn.bugstack.algorithms.test.bloom_filter.BloomFilterTest - 测试结果 val02：https://github.com/fuzhengwei/CodeGuide 布隆过滤器：true
+21:33:22.795 [main] INFO cn.bugstack.algorithms.test.bloom_filter.BloomFilterTest - 测试结果 val02：https://github.com/fuzhengwei 布隆过滤器：false
 
 
 Process finished with exit code 0

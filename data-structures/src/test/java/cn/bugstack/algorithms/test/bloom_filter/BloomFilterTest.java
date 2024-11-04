@@ -1,4 +1,4 @@
-package bloom_filter.__test__;
+package cn.bugstack.algorithms.test.bloom_filter;
 
 import bloom_filter.BloomFilter;
 import org.junit.jupiter.api.Test;
